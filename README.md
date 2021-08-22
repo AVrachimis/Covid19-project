@@ -1,4 +1,12 @@
-# CS31 Main
+# Third year university team project
+### Team CS31
+### Contributors
+* Andrew Aitken
+* Liam Halpin
+* Robert Nimmo
+* Andreas Varchimis
+* Yuhao Wu
+
 ## Project Summary
 
 #### Computer vision solution to mitigate COVID-19 risks and enhance the workplace and public safety
