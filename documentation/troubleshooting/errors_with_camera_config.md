@@ -14,7 +14,7 @@ The PureThermal mini, when plugged into micro-usb power and a Lepton is inserted
 
 Follow the USB troubleshooting steps to troubleshoot the Lepton 3.5 camera.
 
-However, if this does not fix the problem, make sure that you have all prerequisites libraries installed (including `flirpy`).  Instructions for downloading and installing `flirpy` are in guide [here](documentation/manual/environment_setup/jeston_nano_env_setup.md).
+However, if this does not fix the problem, make sure that you have all prerequisites libraries installed (including `flirpy`).  Instructions for downloading and installing `flirpy` are in guide [here](../manual/environment_setup/jetson_nano_env_setup.md).
 
 ## USB
 
