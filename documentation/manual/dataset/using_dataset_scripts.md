@@ -27,7 +27,7 @@ Based on the dataset's requirements, mask colour and type can be specified accor
 The program requires either `--image` or `--folder` for the input image(s).
 
 - `--image`: allows the program to artificially place a mask on a single image, with the argument's value equalling the path to the image.
-- `--folder`: allows the program to artificially place a mask on images within a directory, with the argument's value equalling the path of the folder of images.  All files in this folder must be an image and must be normalized according to the guide found [here](documentation/manual/dataset/adding_more_images_to_dataset.md).
+- `--folder`: allows the program to artificially place a mask on images within a directory, with the argument's value equalling the path of the folder of images.  All files in this folder must be an image and must be normalized according to the guide found [here](adding_more_images_to_dataset.md).
 - `--mask`: required argument specifying the path to the input mask image file.  Available paths:
   - `dataset_scripts/resources/black_mask/mask.png`
   - `dataset_scripts/resources/dark_blue_mask/mask.png`
