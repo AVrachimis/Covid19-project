@@ -16,7 +16,7 @@ The following arguments must be passed prior to execution:
 
 ## Step by Step to run the detector:
 
-You must ensure that you have installed the required environment to run the detector, to do this refer to the guide [here](documentation/manual/running_software_and_training_model/training_the_model.md)
+You must ensure that you have installed the required environment to run the detector, to do this refer to the guide [here](training_the_model.md)
 
 Then, you can run the detector:
 
