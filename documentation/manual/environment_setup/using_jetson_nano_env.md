@@ -91,10 +91,10 @@ $ cd cs31-main
 
 The Jetson Nano is an inference device, we recommended that the Jetson Nano is not used for training for this reason.
 
-Details on how to run the mask detector can be found [here](documentation/manual/running_software_andtraining_model/running_facemask_detector.md).
+Details on how to run the mask detector can be found [here](../running_software_and_training_model/running_facemask_detector.md).
 Make sure that the camera has been plugged into the Jetson Nano before running the code and you are working on the `nano-env` virtual environment.
 
 ---
-If you are having issues with using your camera, follow our troubleshooting guide [here](documentation/troubleshooting/errors_with_camera_config.md).
+If you are having issues with using your camera, follow our troubleshooting guide [here](../../troubleshooting/errors_with_camera_config.md).
 
-If you are having issues with using the pre-set-up Python environment, follow our troubleshooting guide [here](documentation/troubleshooting/errors_using_python_env.md).
+If you are having issues with using the pre-set-up Python environment, follow our troubleshooting guide [here](../../troubleshooting/errors_using_python_env.md).
