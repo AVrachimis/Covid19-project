@@ -52,7 +52,7 @@ Then, run the following command to install the packages from the `requirements.t
 
 #### 4.) Running the Software and Closing
 
-You have now fully installed and set up your local environment on your Windows system.  To run the software see "Running the Facemask Detector" [(click here)](documentation/manual/running_software_andtraining_model/running_facemask_detector.md).
+You have now fully installed and set up your local environment on your Windows system.  To run the software see "Running the Facemask Detector" [(click here)](../running_software_and_training_model/running_facemask_detector.md).
 
 Once you are finished with your environment and you wish to close it, run the following:
 
@@ -95,4 +95,4 @@ Then, install the packages from the `requirements.txt` file by executing:
 
 #### 4.) Running the Software
 
-You have now fully installed and set up your local environment on your Linux/Ubuntu system.  To run the software see "Running the Facemask Detector" [(click here)](documentation/manual/running_software_andtraining_model/running_facemask_detector.md).
+You have now fully installed and set up your local environment on your Linux/Ubuntu system.  To run the software see "Running the Facemask Detector" [(click here)](../running_software_and_training_model/running_facemask_detector.md).
