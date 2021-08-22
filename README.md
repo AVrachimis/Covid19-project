@@ -1,4 +1,4 @@
-# Third year university team project
+# Third Year University Team Project
 ### Team CS31
 ### Contributors
 * Andrew Aitken
