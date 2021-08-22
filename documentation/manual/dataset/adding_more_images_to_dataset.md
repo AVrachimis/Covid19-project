@@ -38,16 +38,16 @@ Avoid adding images from the `mask_nose_mouth` category as they are almost ident
 
 An alternative approach is to use the `artificial_facemask.py` script which artificially places the mask on an individual's face.  This is sometimes more preferable over the datasets detailed above since it provides a larger variety of facemask colours (5 colors), which will create a more generalized model.
 
-You should only choose images which show individuals with no facemask.  More information on how to use this script can be found [here](documentation/manual/dataset/using_dataset_scripts.md).
+You should only choose images which show individuals with no facemask.  More information on how to use this script can be found [here](using_dataset_scripts.md).
 
 ## 3.) Apply the scripts to the newly collected dataset
 
 Once the images are collected and placed into their respective folders, two more scripts must be run to apply data normalization, ensuring that the entire dataset is consistent.
 
-Firstly, apply the `resize.py` script to the whole dataset folder to ensure every image has the same resolution.  A width of 800 must be specified during execution.  More information on this script can be found [here](documentation/manual/dataset/using_dataset_scripts.md).
+Firstly, apply the `resize.py` script to the whole dataset folder to ensure every image has the same resolution.  A width of 800 must be specified during execution.  More information on this script can be found [here](using_dataset_scripts.md).
 
-Then, apply the `rename_images.py` script to the whole dataset to verify that all images follow our specified naming convention.  More information on this script can be found [here](documentation/manual/dataset/using_dataset_scripts.md).
+Then, apply the `rename_images.py` script to the whole dataset to verify that all images follow our specified naming convention.  More information on this script can be found [here](using_dataset_scripts.md).
 
 ## 4.) Train the model
 
-Once the dataset has been collected and normalized, the model must be retrained to accomodate the new changes.  To do this follow the guide [here](documentation/manual/running_software_and_training_model/training_the_model.md)
+Once the dataset has been collected and normalized, the model must be retrained to accomodate the new changes.  To do this follow the guide [here](../running_software_and_training_model/training_the_model.md)
