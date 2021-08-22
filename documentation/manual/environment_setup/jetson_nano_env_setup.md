@@ -187,7 +187,7 @@ First, install NumPy and Cython:
 $ pip install numpy cython
 ```
 
-If you encounter the error message below during installation, follow the troubleshooting guide [click here](documentation/troubleshooting/errors_installing_numpy.md).
+If you encounter the error message below during installation, follow the troubleshooting guide [click here](../../troubleshooting/errors_installing_numpy.md).
 
 ```
 ERROR: Could not build wheels for numpy which use PEP 517 and cannot be installed directly.
@@ -444,7 +444,7 @@ Add the following line to `/etc/fstab` and reboot to make sure that the swap spa
 /mnt/8GB.swap  none  swap  sw 0  0
 ```
 
-Follow [using Jeston Nano environment](documentation/manual/environment_setup/using_jetson_nano_env.md) for a guide on using the Jetson Nano.
+Follow [using Jeston Nano environment](using_jetson_nano_env.md) for a guide on using the Jetson Nano.
 
 ## References
 - NVIDIA Developer. 2021. _Getting Started With Jetson Nano Developer Kit_. [online] Available at: <https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit> [Accessed 28 October 2020].
