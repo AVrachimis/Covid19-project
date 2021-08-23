@@ -4,7 +4,7 @@
 * Andrew Aitken
 * Liam Halpin
 * Robert Nimmo
-* Andreas Varchimis
+* Andreas Vrachimis
 * Yuhao Wu
 
 ## Project Summary
